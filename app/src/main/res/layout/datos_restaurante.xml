@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="8dp"
+    android:minHeight="@dimen/list_item_height"
+    android:clickable="true"
+    >
+
+    <ImageView
+        android:id="@+id/foto_restaurantes"
+        android:layout_width="@dimen/list_item_height"
+        android:layout_height="@dimen/list_item_height"
+        android:paddingRight="16dp"
+        android:paddingEnd="16dp"
+        />
+
+    <LinearLayout
+        android:id="@+id/dato_restaurante"
+        android:layout_width="0dp"
+        android:layout_weight="2"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:weightSum="3"
+        android:background="?selectableItemBackground"
+        >
+
+        <TextView
+            android:id="@+id/nombre_restaurante"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:gravity="bottom"
+            />
+
+        <TextView
+            android:id="@+id/descripcion_restaurante"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:text="12sp"
+            android:gravity="top"
+            android:textColor="@android:color/darker_gray"
+            />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

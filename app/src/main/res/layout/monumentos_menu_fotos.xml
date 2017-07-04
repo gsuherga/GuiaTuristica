@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <Button
+        android:id="@+id/catedral"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/catedral"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:clickable="true"
+        android:textStyle="bold"
+        android:gravity="bottom"
+        android:background="@drawable/catedral05"
+        android:layout_margin="8dp" />
+
+    <Button
+        android:id="@+id/archivo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:textColor="@android:color/white"
+        android:textAllCaps="true"
+        android:text="@string/archivo"
+        android:textStyle="bold"
+        android:gravity="bottom"
+        android:scaleType="centerCrop"
+        android:background="@drawable/archivodeindias01"
+        android:layout_margin="8dp"/>
+
+    <Button
+        android:id="@+id/alcazar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:clickable="true"
+        android:textColor="@android:color/white"
+        android:textAllCaps="true"
+        android:text="@string/alcázar"
+        android:textStyle="bold"
+        android:gravity="bottom"
+        android:scaleType="centerCrop"
+        android:background="@drawable/alcazar01"
+        android:layout_margin="8dp"
+        />
+
+</LinearLayout>

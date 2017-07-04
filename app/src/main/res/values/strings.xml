@@ -1,0 +1,347 @@
+<resources>
+    <string name="app_name">Conoce Sevilla</string>
+
+    <!-- Menu principal de la aplicación !-->
+
+    <string name="menu_principal_patrimonio">Sevilla Patrimonio Mundial</string>
+    <string name="menu_principal_barrios">Barrios en Sevilla</string>
+    <string name="menu_principal_saborea">Saborea Sevilla</string>7
+
+    <!--Edificios históricos y monumentos_menu_fotos !-->
+
+    <string name="catedral">Catedral</string>
+    <string name="alcázar" translatable="false">Real Alcázar</string>
+    <string name="archivo" translatable="false">Archivo de Indias</string>
+
+    <!--Webs de edificios históricos y monumentos_menu_fotos !-->
+
+    <string name="web_catedral" translatable="false">http://www.catedraldeSevilla.es</string>
+    <string name="web_alcázar" translatable="false">http://www.alcazarsevilla.org</string>
+    <string name="web_archivo" translatable="false">http://www.mecd.gob.es/cultura-mecd/areas-cultura/archivos/mc/archivos/agi/portada.html</string>
+
+
+
+
+    <!--catedral !-->
+
+    <!-- Títulos pestañas de los fragmentos -->
+
+    <string name="catedral_general">General</string>
+    <string name="catedral_turistico">Turístico</string>
+    <string name="catedral_historico">Histórico</string>
+    <string name="catedral_artistico">Artístico</string>
+
+
+    <!-- Pequeños textos explicativos -->
+
+    <string name="catedral_general_texto" translatable="false">
+
+    La catedral de Santa María de la Sede es el
+    templo gótico más grande del mundo y constituye
+    un símbolo fundamental para la cristiandad.\n
+    \n
+    La calidad de su arquitectura y el valor de sus
+    obras de arte convierten a este monumento en un
+    referente imprescindible para la ciudad de Sevilla.\n
+    \n
+    Las obras del edificio se inician durante el siglo
+    XV en el lugar que ocupaba la antigua mezquita mayor
+    de la ciudad, que fue utilizada para el culto cristiano
+    tras la reconquista de la misma. Esta singular obra
+    destaca por conservar espacios de origen islámico, así
+    como por sus excepcionales construcciones renacentistas.
+
+    </string>
+
+    <string name="catedral_turistico_texto" translatable="false">
+
+    Se trata de un edificio de gran complejidad y extensión
+    que compagina su principal uso religioso con actividades
+    destinadas a la investigación, conservación y difusión
+    de sus tesoros artísticos.\n
+    \n
+    Respetando su carácter sagrado, los visitantes tienen la
+    posibilidad de recorrer el edificio fuera de sus amplios
+    espacios y horarios de culto, disfrutando de las vistas
+    que ofrece el mirador de la Giralda. Los paneles
+    informativos y las audioguías ofrecen información de
+    interés para la visita general, que puede complementarse
+    con el acceso a las cubiertas de la catedral.
+
+    </string>
+
+    <string name="catedral_historico_texto" translatable="false">
+
+    En la segunda mitad del siglo XII, los gobernantes almohades
+    deciden construir una nueva mezquita mayor para la ciudad.
+    Tras la reconquista de Sevilla en 1248, este edificio
+    islámico se utiliza como catedral cristiana hasta el siglo
+    XV. De la construcción almohade se conservan en la
+    actualidad su torre alminar y su patio de abluciones.\n
+    \n
+    Las dimensiones del nuevo proyecto gótico reflejan el esplendor
+    de una ciudad que incrementará su protagonismo internacional
+    tras el descubrimiento de América. De este modo, las excepcionales
+    intervenciones renacentistas del siglo XVI inician un proceso
+    de transformación que continúa durante el XVII con la construcción
+    de la iglesia del Sagrario sobre restos de la antigua mezquita.
+
+    </string>
+
+    <string name="catedral_artistico_texto" translatable="false">
+
+    El ilimitado valor patrimonial de la catedral de Sevilla se
+    manifiesta a través de realizaciones arquitectónicas de diferentes
+    épocas y estilos que constituyen un excepcional conjunto edificado.
+    Estos espacios funcionan como soporte y contenedor de un rico
+    legado artístico que es el resultado de adquisiciones y encargos
+    realizados a lo largo de siglos.\n
+    \n
+    La mayor parte de su colección de pinturas, retablos, imágenes
+    devocionales y bienes muebles puede contemplarse directamente en las
+    capillas, en las sacristías, en el sector renacentista, en el pabellón
+    de acceso y en las estancias de la Biblioteca.
+
+    </string>
+
+    <!--alcazar !-->
+
+    <!-- Títulos pestañas de los fragmentos -->
+
+    <string name="alcazar_general">General</string>
+    <string name="alcazar_turistico">Turístico</string>
+    <string name="alcazar_historico">Histórico</string>
+    <string name="alcazar_artistico">Artístico</string>
+
+    <!-- Pequeños textos explicativos -->
+
+    <string name="alcazar_general_texto" translatable="false">
+
+    Los Reales Alcázares de Sevilla,
+    con más de mil años de antigüedad,
+    constituyen una de las residencias reales
+    más antiguas de Europa. Su configuración
+    actual es fruto de las intervenciones de
+    los numerosos gobernantes que han encontrado
+    reposo e inspiración en sus estancias y jardines.\n
+    \n
+    Su extenso recinto amurallado delimita un conjunto
+    palaciego de diversas épocas y estilos que aporta
+    claves fundamentales para entender el desarrollo
+    histórico y artístico de la ciudad de Sevilla.
+
+    </string>
+
+    <string name="alcazar_turistico_texto" translatable="false">
+
+    Durante muchos siglos, los Reales Alcázares fueron
+    una ciudadela palatina reservada a la familia real,
+    que hoy en día sigue utilizando algunas de sus estancias.
+    Actualmente, gran parte del recinto es accesible y dispone
+    de cartelas informativas y servicio de audioguías para
+    los visitantes. A su vez, en su interior se desarrollan
+    actividades complementarias como visitas guiadas, exposiciones
+    temporales y conciertos.\n
+    \n
+    Por la belleza de sus edificaciones y jardines, el Alcázar
+    ha servido de fuente de inspiración para artistas y pensadores
+    de todas las épocas. Durante el siglo XIX atrajo a numerosos viajeros
+    románticos y a partir del siglo XX ha llegado a ser escenario de películas
+    legendarias como Lawrence de Arabia o series actuales como Juego de Tronos.
+
+    </string>
+
+    <string name="alcazar_historico_texto" translatable="false">
+
+    El califa Abd-al Rahman III construye un palacio llamado Dar Al-Imara en
+    el siglo X, y el rey taifa Al- Mutamid edifica durante el siglo XI un nuevo
+    núcleo que se conoce por el nombre de Al-Muwarak. El patio del Yeso es un
+    ejemplo arquitectónico que se conserva de las construcciones levantadas
+    por los gobernantes almohades durante el siglo XII.\n
+    \n
+    Tras la reconquista cristiana del año 1248, el rey Alfonso X levanta el palacio
+    gótico y, durante el siglo XIV, el monarca Pedro I dejará su impronta con la
+    construcción del palacio mudéjar. A principios del siglo XVI la reina Isabel I
+    funda la casa de la Contratación para gestionar el comercio con América y a
+    partir de la boda del emperador Carlos V en 1526 se dotará al recinto de
+    elegantes intervenciones renacentistas.\n
+
+    </string>
+
+    <string name="alcazar_artistico_texto" translatable="false">
+
+    El conjunto palaciego responde a un entramado complejo y singular
+    que se debe al reaprovechamiento de construcciones previas y adaptaciones
+    sucesivas con nuevos estilos artísticos. Sus espacios encajan
+    intencionadamente en un tejido irregular y armónico, como se aprecia
+    en los patios interiores o en los exuberantes jardines.\n
+    \n
+    El resultado es un conjunto de experiencias artísticas que acompañan
+    al visitante en su transcurrir por los diferentes ámbitos. Las ricas
+    decoraciones de yeserías, artesonados, azulejos y alicatados de cerámica;
+    las fuentes y estanques; o a la gran variedad de especies vegetales suponen
+    un auténtico estímulo para los visitantes.
+    </string>
+
+
+    <!--alcazar !-->
+
+    <!-- Títulos pestañas de los fragmentos -->
+
+    <string name="archivo_general">General</string>
+    <string name="archivo_turistico">Turístico</string>
+    <string name="archivo_historico">Histórico</string>
+    <string name="archivo_artistico">Artístico</string>
+
+    <!-- Pequeños textos explicativos -->
+
+    <string name="archivo_general_texto" translatable="false">
+
+    Proyecto para la sede del Consulado de Mercaderes con Indias,
+    o Casa Lonja, encargado a finales del siglo XVI por el rey
+    Felipe II para albergar actividades comerciales relacionadas
+    con América, en una zona de gran importancia económica a nivel
+    internacional. \n
+    \n
+    Juan de Herrera, autor del Monasterio del Escorial, diseña sus
+    planos y diferentes maestros mayores de la ciudad participan en
+    su construcción. Tras varios cambios de uso, el edificio se
+    reforma en 1784 para custodiar los documentos procedentes de las
+    principales instituciones relacionadas con la administración y el
+    gobierno de las Américas.
+
+    </string>
+
+    <string name="archivo_turistico_texto" translatable="false">
+
+    El edificio se levanta para proporcionar una sede a los comerciantes
+    involucrados en el tráfico comercial con las Indias, que hasta
+    entonces negociaban en el entorno de la Catedral e invadían sus
+    espacios. Es por ello que su construcción se financió con un
+    impuesto llamado “derecho de lonja”, que afectaba al tráfico de
+    todas las mercancías que entraban y salían de la ciudad.\n
+    \n
+    Antes de utilizarse como archivo, algunos de sus espacios se usaron
+    como casa de vecinos, depósito del Cabildo Catedralicio y Academia
+    de Pintura de Murillo. Actualmente incluye zonas expositivas y alberga
+    documentos relacionados con la historia de las naciones americanas y
+    Filipinas.
+    </string>
+
+    <string name="archivo_historico_texto" translatable="false">
+
+    Las obras de la antigua Casa Lonja se inician en 1583, bajo la
+    dirección de Juan de Minjares y el diseño de Juan de Herrera, insigne
+    representante de la arquitectura manierista española. Los trabajos
+    definitivos concluyen a mediados del siglo XVII, con la sucesiva intervención
+    de maestros como Alonso de Vandelvira, Miguel de Zumárraga o Pedro Sánchez Falconete.\n
+    \n
+    La decadencia del comercio en la ciudad de Sevilla inicia un proceso
+    de abandono e infrautilización del inmueble que se detiene en 1784.
+    Ese año el edificio es elegido por Carlos III como sede del nuevo Archivo
+    General de Indias, siendo remodelado por el académico Lucas Cintora.
+    El proyecto de Antonio Campos finaliza en 2005 una importante rehabilitación
+    integral que incluye una conexión subterránea con la antigua Cilla del
+    Cabildo.
+
+    </string>
+
+    <string name="archivo_artistico_texto" translatable="false">
+
+    La potente geometría cuadrada de la planta salva el desnivel exterior
+    mediante una base escalonada y se organiza en torno a un patio interior
+    rodeado por dos anillos de galerías concéntricas que se iluminan a
+    través de sus respectivas fachadas.\n
+    \n
+    Sus dos niveles de naves abovedadas y superpuestas se comunican por una
+    escalera monumental y constituyen un ejemplo pionero en la arquitectura
+    de Occidente. La rigurosa impronta manierista de Juan de Herrera se
+    materializa en una construcción de imagen severa y precisas proporciones
+    compositivas.
+
+    </string>
+
+
+    <!--   ____________________________________________________________ -->
+
+
+    <!-- Lista de restaurantes-->
+
+    <!-- Nombres  -->
+
+    <string-array name="nombres_restaurantes">
+
+        <item>Restaurante Zarabanda</item>
+        <item>La Alacena de San Eloy</item>
+        <item>ChocoAndLate Postres y Copas</item>
+        <item>Inés Rosales</item>
+        <item>Tribeca</item>
+        <item>Taberna del Alabardero</item>
+        <item>Robles Placentines</item>
+        <item>Rio Grande</item>
+        <item>Restaurante Pando Cuna</item>
+        <item>Restaurante Pando Centro</item>
+        <item>El Rinconcillo</item>
+
+    </string-array>
+
+    <!-- Páginas webs de los restaurantes -->
+
+    <string-array name="webs_restaurantes">
+
+        <item>http://www.zarabandasevilla.es</item>
+        <item>http://www.gruposaneloy.com</item>
+        <item>http://www.chocoandlate.com</item>
+        <item>http://www.inesrosales.com</item>
+        <item>http://www.restaurantetribeca.com</item>
+        <item>http://www.tabernadelalabardero.es</item>
+        <item>http://www.roblesrestaurantes.com</item>
+        <item>http://www.riogrande-sevilla.com</item>
+        <item>http://www.pandorestaurantes.com</item>
+        <item>http://www.pandorestaurantes.com</item>
+        <item>http://www.elrinconcillo.es</item>
+
+    </string-array>
+
+    <!-- Comentarios y descriciones de los restaurantes -->
+
+    <string-array name="comentarios_restaurantes">
+
+        <item>Pequeño restaurante y muy acogedor con
+            toques mediterráneos.</item>
+
+        <item>La Alacena de San Eloy combina tienda Gourmet,
+            Bar y Regalos. </item>
+
+        <item>Chocoandlate, Postres y Copas, ofrece chocolates
+            a la taza, más de 20 tartas caseras y una amplia
+            carta de Gin Tonics.</item>
+
+        <item>Empresa andaluza dedicada a la fabricación y venta de
+            productos de repostería y dulcería.</item>
+
+        <item>Cocina de mercado, especializada en pescados de
+            la lonja de Cadiz.</item>
+
+        <item>Carta, basada en productos de temporada. Completa selección de vinos
+            no dejarán nunca indiferente a los paladares más exigentes.</item>
+
+        <item>Ofrece una rica carta variada llena de propuestas un poco
+            más informales, a base de tapas y raciones, pero con todo el
+            sabor y la calidad de Robles.</item>
+
+        <item>Nuestro restaurante es una experiencia muy especial para los
+            sentidos y el disfrute de la buena mesa.</item>
+
+        <item>Una casa palacio para sus comidas y celebraciones.
+            En pleno centro de Sevilla.</item>
+
+        <item>Céntrico restaurante de ambiente agradable y cocina
+            tradicional andaluza.</item>
+
+        <item>Si Sevilla es la cuna del tapeo su máximo exponente seguramente
+            es esta antigua casa fundada en 1670.</item>
+
+    </string-array>
+
+</resources>

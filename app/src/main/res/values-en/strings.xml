@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Get to Know Seville</string>
+    <string name="alcazar_artistico">Artist</string>
+    <string name="alcazar_general">General</string>
+    <string name="alcazar_historico">Historic</string>
+    <string name="alcazar_turistico">Tourist</string>
+    <string name="archivo_artistico">Artist</string>
+    <string name="archivo_general">General</string>
+    <string name="archivo_historico">Historic</string>
+    <string name="archivo_turistico">Tourist</string>
+    <string name="catedral">Cathedral</string>
+    <string name="catedral_artistico">Artist</string>
+    <string name="catedral_general">General</string>
+    <string name="catedral_historico">Historic</string>
+    <string name="catedral_turistico">Tourist</string>
+    <string name="menu_principal_barrios">Neighborhood</string>
+    <string name="menu_principal_saborea">Taste Seville</string>
+    <string name="menu_principal_patrimonio">Seville World Heritate Site</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Altura para cada elemento de la lista -->
+    <dimen name="list_item_height">100dp</dimen>
+
+
+</resources>
